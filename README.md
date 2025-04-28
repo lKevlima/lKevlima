@@ -1,9 +1,9 @@
 ## Fala ai! Kevin por aqui.
-
+<p><strong>Desenvolvedor de Backend e Low-Code</strong></p>
 <div style="display: flex; flex-direction: column; align-items: flex-start; font-family: Arial, sans-serif; font-size: 14px; margin-top: 20px;">
 
   <div style="margin-bottom: 8px;">
-   - 💻 Atualmente trabalhando com ferramentas low-code como o Power Apps
+   - 👨‍💻 Atuo com ferramentas low-code, como o Power Apps, para criar soluções ágeis e eficientes.
   </div>
 
   <div style="margin-bottom: 8px;">
@@ -11,7 +11,7 @@
   </div>
 
   <div style="margin-bottom: 8px;">
-   - 🧩 Utilizando HTML para criação de layouts em projetos internos
+   - 🎓 Cursando análise e desenvolvimento de sistemas na UNIP
   </div>
 
 </div>
