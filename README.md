@@ -20,9 +20,13 @@
 
 <div>
   <a href="https://github.com/lKevlima" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lKevlima&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lKevlima&layout=compact&langs_count=16&theme=white"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lKevlima&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/lKevlima/pylearning" target="_blank">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=lKevlima&repo=pylearning"/>
+  </a>  
   </a>
+ 
+ 
 </div>
 
 <br>
